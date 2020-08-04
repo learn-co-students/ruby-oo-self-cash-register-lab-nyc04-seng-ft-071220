@@ -62,5 +62,5 @@ practice=CashRegister.new(30)
 practice.methods
 practice.items=["eggs", "ham", "bacon"]
 
-binding.pry
+#binding.pry
 0
